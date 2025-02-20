@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variables
+.env
+
+# Editor e ferramentas
+.vscode/
+biome.json
+
+#testes
+api.http
