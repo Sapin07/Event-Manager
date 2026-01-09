@@ -12,13 +12,13 @@ Projeto demonstrativo focado em boas práticas de desenvolvimento backend com Ty
 
 **Nota:** Este projeto **não persiste dados**. Os dados recebidos são validados e retornados, mas não são salvos (se desligar o server tudo volta para a estaca zero). Para um projeto real, seria necessário adicionar uma camada de persistência (banco de dados) para armazenar as inscrições, algumas alterações simples e a magia acontece.
 
-## 🛠️ Stack
+##  Stack
 
 - TypeScript + Fastify
 - Zod (validação)
 - Swagger/OpenAPI (documentação)
 
-## 🚀 Como usar
+## Como usar
 
 ```bash
 npm install
@@ -49,7 +49,7 @@ Inscreve alguém em um evento
 }
 ```
 
-## ⚙️ Configuração
+## Configuração
 
 Opcional - crie `.env`:
 ```env
